@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Temiloluwa 👋  I'm a creator, developer, and founder focused on building clean digital products across media, entertainment, and utility tools.
+  Current Projects 
+ - [Keyframe Awards](https://keyframe-awards.com)
+[Independent awards platform celebrating music, movies, TV, creators & internet culture]
 
-<!--
-**Temi5279/Temi5279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -[Stream 2.0](https://temi5279.github.io/Stream-2.0/stream-home.html) [Branded streaming platform (in deep development)]
 
-Here are some ideas to get you started:
+ - [Graphics Resolve](https://temi5279.github.io/Graphics-Resolve-/) [Freelance studio for video editing, motion graphics & visual branding]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [QuickTokenGen](https://temi5279.github.io/Quicktokengen/) [Free browser tools (Password Generator, QR Code Generator, Text Repeater)]
+
+- [Skew] (https://youtube.com/@skew_1) [YouTube channel posting funny and relatable content]
+
+What I Do  
+ - Frontend development (HTML, CSS, JavaScript)
+ - Video editing & motion graphics
+ - Building and managing digital platforms
+ - Content creation & social media strategy 
+
+ Connect  
+- YouTube: [youtube.com/@skew_1](https://youtube.com/@skew_1) - LinkedIn: [Temiloluwa Durojaiye](https://www.linkedin.com/in/temiloluwa-durojaiye)
+- WhatsApp:
+[+234 708-705-5948]
+  Thanks for stopping by!
